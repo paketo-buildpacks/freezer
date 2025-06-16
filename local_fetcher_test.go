@@ -7,8 +7,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/ForestEckhardt/freezer"
-	"github.com/ForestEckhardt/freezer/fakes"
+	"github.com/paketo-buildpacks/freezer"
+	"github.com/paketo-buildpacks/freezer/fakes"
 	"github.com/sclevine/spec"
 
 	. "github.com/onsi/gomega"

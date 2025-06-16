@@ -10,9 +10,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/ForestEckhardt/freezer"
-	"github.com/ForestEckhardt/freezer/fakes"
-	"github.com/ForestEckhardt/freezer/github"
+	"github.com/paketo-buildpacks/freezer"
+	"github.com/paketo-buildpacks/freezer/fakes"
+	"github.com/paketo-buildpacks/freezer/github"
 	"github.com/paketo-buildpacks/packit/v2/vacation"
 	"github.com/sclevine/spec"
 

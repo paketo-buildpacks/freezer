@@ -1,4 +1,4 @@
-module github.com/ForestEckhardt/freezer
+module github.com/paketo-buildpacks/freezer
 
 go 1.16
 

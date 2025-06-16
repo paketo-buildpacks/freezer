@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/ForestEckhardt/freezer/github"
+	"github.com/paketo-buildpacks/freezer/github"
 	"github.com/paketo-buildpacks/packit/v2/vacation"
 )
 
