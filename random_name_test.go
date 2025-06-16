@@ -3,7 +3,7 @@ package freezer_test
 import (
 	"testing"
 
-	"github.com/ForestEckhardt/freezer"
+	"github.com/paketo-buildpacks/freezer"
 	"github.com/sclevine/spec"
 
 	. "github.com/onsi/gomega"

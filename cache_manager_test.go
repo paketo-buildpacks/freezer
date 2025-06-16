@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/ForestEckhardt/freezer"
+	"github.com/paketo-buildpacks/freezer"
 	"github.com/sclevine/spec"
 
 	. "github.com/onsi/gomega"

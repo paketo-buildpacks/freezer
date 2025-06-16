@@ -8,7 +8,7 @@ import (
 	"net/http/httputil"
 	"testing"
 
-	"github.com/ForestEckhardt/freezer/github"
+	"github.com/paketo-buildpacks/freezer/github"
 	"github.com/sclevine/spec"
 
 	. "github.com/onsi/gomega"

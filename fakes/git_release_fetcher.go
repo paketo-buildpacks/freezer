@@ -4,7 +4,7 @@ import (
 	"io"
 	"sync"
 
-	"github.com/ForestEckhardt/freezer/github"
+	"github.com/paketo-buildpacks/freezer/github"
 )
 
 type GitReleaseFetcher struct {
