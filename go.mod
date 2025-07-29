@@ -5,7 +5,7 @@ go 1.24.5
 require (
 	github.com/oklog/ulid v1.3.1
 	github.com/onsi/gomega v1.38.0
-	github.com/paketo-buildpacks/packit/v2 v2.22.0
+	github.com/paketo-buildpacks/packit/v2 v2.23.0
 	github.com/sclevine/spec v1.4.0
 )
 
