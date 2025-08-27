@@ -25,3 +25,13 @@ func NewRemoteBuildpack(org, repo, platform, arch string) RemoteBuildpack {
 		CachedKey:   fmt.Sprintf("%s:%s:%s:%s:cached", org, repo, platform, arch),
 	}
 }
+
+func (r RemoteBuildpack) WithOffline(offline bool) RemoteBuildpack {
+	r.Offline = offline
+	return r
+}
+
+func (r RemoteBuildpack) WithVersion(version string) RemoteBuildpack {
+	r.Version = version
+	return r
+}
