@@ -1,6 +1,6 @@
 module github.com/paketo-buildpacks/freezer
 
-go 1.25.5
+go 1.26
 
 require (
 	github.com/oklog/ulid v1.3.1
