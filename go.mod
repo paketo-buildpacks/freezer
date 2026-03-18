@@ -1,11 +1,11 @@
 module github.com/paketo-buildpacks/freezer
 
-go 1.26
+go 1.26.1
 
 require (
 	github.com/oklog/ulid v1.3.1
 	github.com/onsi/gomega v1.39.1
-	github.com/paketo-buildpacks/packit/v2 v2.25.4
+	github.com/paketo-buildpacks/packit/v2 v2.25.5
 	github.com/sclevine/spec v1.4.0
 )
 
